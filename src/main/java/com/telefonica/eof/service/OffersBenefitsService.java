@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.hazelcast.internal.util.StringUtil;
+import com.hazelcast.util.StringUtil;
 import com.telefonica.eof.business.offering.AditionalSva;
 import com.telefonica.eof.business.offering.Benefit;
 import com.telefonica.eof.business.offering.OfferFilter;

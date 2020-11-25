@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.hazelcast.internal.util.StringUtil;
+import com.hazelcast.util.StringUtil;
 import com.telefonica.eof.commons.Constant;
 import com.telefonica.eof.commons.Util;
 import com.telefonica.eof.dto.OffersBenefitsRequestDto;

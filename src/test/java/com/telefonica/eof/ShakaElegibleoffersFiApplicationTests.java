@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.hazelcast.internal.util.StringUtil;
+import com.hazelcast.util.StringUtil;
 import com.telefonica.eof.commons.Constant;
 import com.telefonica.eof.dto.DiscountParamsDto;
 import com.telefonica.eof.dto.SvaBenefitParamsDto;
